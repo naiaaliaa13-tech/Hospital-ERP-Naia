@@ -1,0 +1,7 @@
+{
+  "name": "Hospital ERP Naia",
+  "description": "An AI-Native, luxury Enterprise Resource Planning system for healthcare, featuring intelligent Finance, EHR, and Inventory management powered by Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
